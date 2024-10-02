@@ -18,7 +18,6 @@ const App = () => {
   };
 
   const openAlertWindow = (message) => {
-    // 새로운 창을 띄우고 메시지를 표시합니다.
     const alertWindow = window.open('', '', 'width=400,height=200');
     alertWindow.document.write(`
       <html>
