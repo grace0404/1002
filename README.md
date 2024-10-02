@@ -4,4 +4,5 @@
 
 로그인
 ![화면 캡처 2024-10-02 150444](https://github.com/user-attachments/assets/e69d22c5-f986-476c-931f-126f30914040)
-![Uploading 화면 캡처 2024-10-02 150512.png…]()
+![화면 캡처 2024-10-02 150512](https://github.com/user-attachments/assets/e247b145-7fc7-4b33-a1a6-d143d829d935)
+
